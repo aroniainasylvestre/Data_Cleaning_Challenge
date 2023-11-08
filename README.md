@@ -12,14 +12,12 @@ Ce projet consiste à nettoyer des datasets en appliquant les bonnes pratiques d
  -  Normaliser les données.
 
 ### Datasets :
-> 1 - AmesHousing Dataset [[link]]()
+> 1 - AmesHousing Dataset [[link]](https://www.kaggle.com/datasets/shashanknecrothapa/ames-housing-dataset) or [[link]](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques) 
 
 ### Technologies utilisées : 
 - Python
-- Numpy
 - Pandas
-- Matplotlib
-- Seaborn
+
 
 ### Notes et références :
  - [Nettoyage de données - Wikipédia](https://fr.m.wikipedia.org/wiki/Nettoyage_de_donn%C3%A9es)
